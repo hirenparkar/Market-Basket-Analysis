@@ -2,6 +2,9 @@
 
 This project presents a **Market Basket Analysis** conducted using **Power BI** to uncover product purchase patterns and insights from transaction data. The analysis helps identify product associations, enabling businesses to optimize product placements, marketing strategies, and cross-selling opportunities.
 
+![image](https://github.com/user-attachments/assets/1c966015-21e3-445b-9d3a-ff8c88686887)
+
+
 ---
 
 ## 📊 Dashboard Overview
